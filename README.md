@@ -14,3 +14,12 @@
 + Численные методы
 + Временные ряды
 + ML для текстов  
+#### В данных проектах я применял библиотеки
++ Pandas
++ Scikit-learn
++ Matplotlib
++ Plotly
++ PyMystem
++ Numpy
++ Lightgbm
++ Nltk
